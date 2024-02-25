@@ -1,0 +1,9 @@
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\sorteo02\sorteo02\bin\Debug\sorteo02.exe
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\sorteo02\sorteo02\bin\Debug\sorteo02.pdb
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\sorteo02\sorteo02\bin\Debug\sorteo02.xml
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\sorteo02\sorteo02\obj\x86\Debug\sorteo02.Form1.resources
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\sorteo02\sorteo02\obj\x86\Debug\sorteo02.Resources.resources
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\sorteo02\sorteo02\obj\x86\Debug\sorteo02.vbproj.GenerateResource.Cache
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\sorteo02\sorteo02\obj\x86\Debug\sorteo02.exe
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\sorteo02\sorteo02\obj\x86\Debug\sorteo02.xml
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\sorteo02\sorteo02\obj\x86\Debug\sorteo02.pdb
