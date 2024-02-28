@@ -1,0 +1,9 @@
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\menus1\menus1\bin\Debug\menus1.exe
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\menus1\menus1\bin\Debug\menus1.pdb
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\menus1\menus1\bin\Debug\menus1.xml
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\menus1\menus1\obj\x86\Debug\menus.Form1.resources
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\menus1\menus1\obj\x86\Debug\menus.Resources.resources
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\menus1\menus1\obj\x86\Debug\menus1.vbproj.GenerateResource.Cache
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\menus1\menus1\obj\x86\Debug\menus1.exe
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\menus1\menus1\obj\x86\Debug\menus1.xml
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\menus1\menus1\obj\x86\Debug\menus1.pdb
