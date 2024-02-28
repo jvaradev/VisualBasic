@@ -1,0 +1,9 @@
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\escribirArchivoTexto\escribirArchivoTexto\bin\Debug\escribirArchivoTexto.exe
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\escribirArchivoTexto\escribirArchivoTexto\bin\Debug\escribirArchivoTexto.pdb
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\escribirArchivoTexto\escribirArchivoTexto\bin\Debug\escribirArchivoTexto.xml
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\escribirArchivoTexto\escribirArchivoTexto\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\escribirArchivoTexto\escribirArchivoTexto\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\escribirArchivoTexto\escribirArchivoTexto\obj\x86\Debug\escribirArchivoTexto.vbproj.GenerateResource.Cache
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\escribirArchivoTexto\escribirArchivoTexto\obj\x86\Debug\escribirArchivoTexto.exe
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\escribirArchivoTexto\escribirArchivoTexto\obj\x86\Debug\escribirArchivoTexto.xml
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\escribirArchivoTexto\escribirArchivoTexto\obj\x86\Debug\escribirArchivoTexto.pdb
