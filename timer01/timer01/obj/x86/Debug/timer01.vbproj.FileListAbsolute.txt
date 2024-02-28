@@ -1,0 +1,18 @@
+C:\Users\javiv\AppData\Local\Temporary Projects\timer01\bin\Debug\timer01.exe
+C:\Users\javiv\AppData\Local\Temporary Projects\timer01\bin\Debug\timer01.pdb
+C:\Users\javiv\AppData\Local\Temporary Projects\timer01\bin\Debug\timer01.xml
+C:\Users\javiv\AppData\Local\Temporary Projects\timer01\obj\x86\Debug\timer01.Form1.resources
+C:\Users\javiv\AppData\Local\Temporary Projects\timer01\obj\x86\Debug\timer01.Resources.resources
+C:\Users\javiv\AppData\Local\Temporary Projects\timer01\obj\x86\Debug\timer01.vbproj.GenerateResource.Cache
+C:\Users\javiv\AppData\Local\Temporary Projects\timer01\obj\x86\Debug\timer01.exe
+C:\Users\javiv\AppData\Local\Temporary Projects\timer01\obj\x86\Debug\timer01.xml
+C:\Users\javiv\AppData\Local\Temporary Projects\timer01\obj\x86\Debug\timer01.pdb
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\timer01\timer01\obj\x86\Debug\timer01.exe
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\timer01\timer01\obj\x86\Debug\timer01.xml
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\timer01\timer01\obj\x86\Debug\timer01.pdb
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\timer01\timer01\bin\Debug\timer01.exe
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\timer01\timer01\bin\Debug\timer01.pdb
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\timer01\timer01\bin\Debug\timer01.xml
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\timer01\timer01\obj\x86\Debug\timer01.Form1.resources
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\timer01\timer01\obj\x86\Debug\timer01.Resources.resources
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\timer01\timer01\obj\x86\Debug\timer01.vbproj.GenerateResource.Cache
