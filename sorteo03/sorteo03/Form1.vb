@@ -17,6 +17,7 @@
         If minimo < maximo Then
             resultado = random.Next(minimo, maximo + 1)
             Info.Text = "Resultado sorteo: " & resultado
+
         End If
     End Sub
 End Class
