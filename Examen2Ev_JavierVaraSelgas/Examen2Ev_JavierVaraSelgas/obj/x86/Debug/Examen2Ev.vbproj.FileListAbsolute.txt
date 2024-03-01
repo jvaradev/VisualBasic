@@ -1,0 +1,9 @@
+C:\Users\javiv\AppData\Local\Temporary Projects\Examen2Ev\bin\Debug\Examen2Ev.exe
+C:\Users\javiv\AppData\Local\Temporary Projects\Examen2Ev\bin\Debug\Examen2Ev.pdb
+C:\Users\javiv\AppData\Local\Temporary Projects\Examen2Ev\bin\Debug\Examen2Ev.xml
+C:\Users\javiv\AppData\Local\Temporary Projects\Examen2Ev\obj\x86\Debug\Examen2Ev.Form1.resources
+C:\Users\javiv\AppData\Local\Temporary Projects\Examen2Ev\obj\x86\Debug\Examen2Ev.Resources.resources
+C:\Users\javiv\AppData\Local\Temporary Projects\Examen2Ev\obj\x86\Debug\Examen2Ev.vbproj.GenerateResource.Cache
+C:\Users\javiv\AppData\Local\Temporary Projects\Examen2Ev\obj\x86\Debug\Examen2Ev.exe
+C:\Users\javiv\AppData\Local\Temporary Projects\Examen2Ev\obj\x86\Debug\Examen2Ev.xml
+C:\Users\javiv\AppData\Local\Temporary Projects\Examen2Ev\obj\x86\Debug\Examen2Ev.pdb

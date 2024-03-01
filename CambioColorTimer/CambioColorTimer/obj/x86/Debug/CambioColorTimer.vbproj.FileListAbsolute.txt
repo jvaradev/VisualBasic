@@ -10,3 +10,9 @@ C:\Users\javiv\AppData\Local\Temporary Projects\CambioColorTimer\obj\x86\Debug\C
 C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\CambioColorTimer\CambioColorTimer\obj\x86\Debug\CambioColorTimer.exe
 C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\CambioColorTimer\CambioColorTimer\obj\x86\Debug\CambioColorTimer.xml
 C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\CambioColorTimer\CambioColorTimer\obj\x86\Debug\CambioColorTimer.pdb
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\CambioColorTimer\CambioColorTimer\bin\Debug\CambioColorTimer.exe
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\CambioColorTimer\CambioColorTimer\bin\Debug\CambioColorTimer.pdb
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\CambioColorTimer\CambioColorTimer\bin\Debug\CambioColorTimer.xml
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\CambioColorTimer\CambioColorTimer\obj\x86\Debug\CambioColorTimer.Form1.resources
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\CambioColorTimer\CambioColorTimer\obj\x86\Debug\CambioColorTimer.Resources.resources
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\CambioColorTimer\CambioColorTimer\obj\x86\Debug\CambioColorTimer.vbproj.GenerateResource.Cache

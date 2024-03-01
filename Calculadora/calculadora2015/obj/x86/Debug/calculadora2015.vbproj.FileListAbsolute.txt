@@ -48,3 +48,6 @@ C:\Users\javiv\Downloads\calculadoraInterface\calculadoraInterface\calculadora20
 C:\Users\javiv\Downloads\calculadoraInterface\calculadoraInterface\calculadora2015\obj\x86\Debug\WindowsApplication1.Form1.resources
 C:\Users\javiv\Downloads\calculadoraInterface\calculadoraInterface\calculadora2015\obj\x86\Debug\WindowsApplication1.Resources.resources
 C:\Users\javiv\Downloads\calculadoraInterface\calculadoraInterface\calculadora2015\obj\x86\Debug\calculadora2015.vbproj.GenerateResource.Cache
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\Calculadora\calculadora2015\obj\x86\Debug\calculadora2015.exe
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\Calculadora\calculadora2015\obj\x86\Debug\calculadora2015.xml
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\Calculadora\calculadora2015\obj\x86\Debug\calculadora2015.pdb

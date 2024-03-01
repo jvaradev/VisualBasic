@@ -1,0 +1,9 @@
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\Examen2Ev_JavierVaraSelgas\Examen2Ev_JavierVaraSelgas\bin\Debug\Examen2Ev_JavierVaraSelgas.exe
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\Examen2Ev_JavierVaraSelgas\Examen2Ev_JavierVaraSelgas\bin\Debug\Examen2Ev_JavierVaraSelgas.pdb
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\Examen2Ev_JavierVaraSelgas\Examen2Ev_JavierVaraSelgas\bin\Debug\Examen2Ev_JavierVaraSelgas.xml
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\Examen2Ev_JavierVaraSelgas\Examen2Ev_JavierVaraSelgas\obj\x86\Debug\Examen2Ev.Form1.resources
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\Examen2Ev_JavierVaraSelgas\Examen2Ev_JavierVaraSelgas\obj\x86\Debug\Examen2Ev.Resources.resources
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\Examen2Ev_JavierVaraSelgas\Examen2Ev_JavierVaraSelgas\obj\x86\Debug\Examen2Ev_JavierVaraSelgas.vbproj.GenerateResource.Cache
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\Examen2Ev_JavierVaraSelgas\Examen2Ev_JavierVaraSelgas\obj\x86\Debug\Examen2Ev_JavierVaraSelgas.exe
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\Examen2Ev_JavierVaraSelgas\Examen2Ev_JavierVaraSelgas\obj\x86\Debug\Examen2Ev_JavierVaraSelgas.xml
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\Examen2Ev_JavierVaraSelgas\Examen2Ev_JavierVaraSelgas\obj\x86\Debug\Examen2Ev_JavierVaraSelgas.pdb

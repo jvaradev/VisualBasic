@@ -1,6 +1,6 @@
 ﻿Public Class Form1
     Dim colorInicial As Color = Color.Black
-    Dim colorFinal As Color = Color.Blue
+    Dim colorFinal As Color = Color.Pink
     Dim paso As Integer = 0
     Dim cantPasos As Integer = 100
 

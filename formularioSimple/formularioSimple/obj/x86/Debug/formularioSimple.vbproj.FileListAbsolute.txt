@@ -10,3 +10,9 @@ C:\Users\javiv\AppData\Local\Temporary Projects\formularioSimple\obj\x86\Debug\f
 C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\formularioSimple\formularioSimple\obj\x86\Debug\formularioSimple.exe
 C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\formularioSimple\formularioSimple\obj\x86\Debug\formularioSimple.xml
 C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\formularioSimple\formularioSimple\obj\x86\Debug\formularioSimple.pdb
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\formularioSimple\formularioSimple\bin\Debug\formularioSimple.exe
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\formularioSimple\formularioSimple\bin\Debug\formularioSimple.pdb
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\formularioSimple\formularioSimple\bin\Debug\formularioSimple.xml
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\formularioSimple\formularioSimple\obj\x86\Debug\formularioSimple.Form1.resources
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\formularioSimple\formularioSimple\obj\x86\Debug\formularioSimple.Resources.resources
+C:\Users\javiv\Documents\Visual Studio 2010\Projects\Examen\formularioSimple\formularioSimple\obj\x86\Debug\formularioSimple.vbproj.GenerateResource.Cache
